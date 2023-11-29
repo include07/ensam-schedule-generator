@@ -8,4 +8,4 @@ This repository is part of the Gadz'IT Python workshop, it represents one of the
 
 1. A working Python installation, refer to [Python's official site](https://www.python.org/) for instructions for installing the Python interpreter.
 2. A package manager, pip is the go to choice, refer to [pip's documentation](https://pip.pypa.io/en/stable/installation/) for detailed instructions for your specific platform.
-3. Watch the following video series to get an idea of the potential tech stack we will be using in our project [Introduction to OCR](https://www.youtube.com/watch?v=tQGgGY8mTP0&list=PL2VXyKi-KpYuTAZz__9KVl1jQz74bDG7i), [Tabula, Camelot, PyPDF2](https://www.youtube.com/watch?v=702lkQbZx50).
+3. [Camelot](https://camelot-py.readthedocs.io/en/master/) and [BeautifulSoup](https://www.tutorialspoint.com/beautiful_soup/beautiful_soup_quick_guide.htm).
