@@ -20,3 +20,4 @@ with open('all.html', 'a') as all:
   all_html = [tr.prettify() for tr in all_list]
   all.writelines(all_html)
   all.writelines(['</tbody>', '</table>'])
+
